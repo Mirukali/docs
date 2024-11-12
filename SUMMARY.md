@@ -4,15 +4,20 @@
 * [Team](team.md)
 * [FAQ](faq.md)
 * [Donations](donations.md)
+* [Command List](command-list.md)
 
 ## Feature
 
+* [Profile](feature/profile.md)
+* [Leveling](feature/leveling.md)
+* [Minigame](feature/minigame.md)
 * [RPG](feature/rpg.md)
 
 ## Currency
 
 * [Gold](currency/gold.md)
 * [Miru Point](currency/miru-point.md)
+* [$MIRU](currency/usdmiru.md)
 
 ## Legal
 

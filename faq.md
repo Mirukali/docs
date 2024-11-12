@@ -4,4 +4,4 @@ icon: thumbtack
 
 # FAQ
 
-Coming soon...
+_**Coming soon...**_
