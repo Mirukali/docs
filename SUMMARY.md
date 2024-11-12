@@ -11,6 +11,7 @@
 * [Profile](feature/profile.md)
 * [Leveling](feature/leveling.md)
 * [Minigame](feature/minigame.md)
+* [Premium](feature/premium.md)
 * [RPG](feature/rpg.md)
 
 ## Currency
