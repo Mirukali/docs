@@ -18,7 +18,6 @@ Each user has a unique profile in the system. Upon profile creation, the bot gen
   * **Bug Hunter** (special badge)
   * **Active Developer** (only available for verified public bots; requires submission)
 * **Profile Completeness**: Additional rewards for users with an avatar and banner.
-* **Verified Account**: Users who verify their email and phone number.
 
 <mark style="color:orange;">**Profile Deletion and Wallet Export**</mark>
 
