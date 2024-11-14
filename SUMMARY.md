@@ -12,6 +12,7 @@
 * [Profile](feature/profile.md)
 * [Leveling](feature/leveling.md)
 * [Minigame](feature/minigame.md)
+* [Wallet](feature/wallet.md)
 * [Premium](feature/premium.md)
 * [RPG](feature/rpg.md)
 
@@ -19,7 +20,7 @@
 
 * [Gold](currency/gold.md)
 * [Miru Point](currency/miru-point.md)
-* [$MIRU](currency/usdmiru.md)
+* [🐐 $MIRU](currency/usdmiru.md)
 
 ## Legal
 

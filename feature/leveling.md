@@ -1,3 +1,7 @@
+---
+icon: turn-up
+---
+
 # Leveling
 
 {% hint style="warning" %}

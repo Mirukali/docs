@@ -1,3 +1,7 @@
+---
+icon: user
+---
+
 # Profile
 
 {% hint style="warning" %}

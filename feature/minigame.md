@@ -1,3 +1,7 @@
+---
+icon: gamepad-modern
+---
+
 # Minigame
 
 {% hint style="warning" %}

@@ -1,3 +1,7 @@
+---
+icon: scrubber
+---
+
 # Miru Point
 
 #### Miru Point <a href="#miru-point" id="miru-point"></a>

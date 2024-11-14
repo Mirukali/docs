@@ -1,3 +1,7 @@
+---
+icon: ring
+---
+
 # Gold
 
 * Symbol: **Gold**
