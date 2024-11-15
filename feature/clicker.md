@@ -1,7 +1,7 @@
 ---
-icon: sword
+icon: computer-mouse
 ---
 
-# RPG
+# Clicker
 
 _**Coming soon...**_

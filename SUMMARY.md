@@ -15,7 +15,7 @@
 * [Minigame](feature/minigame.md)
 * [Wallet](feature/wallet.md)
 * [Premium](feature/premium.md)
-* [RPG](feature/rpg.md)
+* [Clicker](feature/clicker.md)
 
 ## Currency
 
@@ -27,3 +27,7 @@
 
 * [Terms of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
+
+***
+
+* [Support server](https://discord.gg/8yfv46W)

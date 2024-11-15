@@ -4,11 +4,15 @@ icon: wallet
 
 # Wallet
 
-### Overview
+{% hint style="warning" %}
+All information is unofficial and may be subject to change in the future.
+{% endhint %}
+
+### <mark style="color:orange;">Overview</mark>
 
 The **Wallet** in Miruka is designed to be a seamless gateway between your in-game assets and the blockchain, allowing for easy management of both in-game and external assets right from Discord. With this integration, you can view and manage your assets, track external NFTs, and engage in partnerships, all while keeping your assets secure.
 
-#### Key Features of the Wallet:
+#### <mark style="color:orange;">Key Features of the Wallet</mark>
 
 * **In-Game Asset Management**: Instantly view your balance of in-game currency, tokens, and other blockchain-based assets.
 * **External Wallet Link**: Connect an external wallet (e.g., MetaMask) to your Miruka account, allowing the bot to verify NFTs, tokens, and other assets without needing to transfer them into Discord. This ensures that your valuable assets remain safe in your personal wallet.
