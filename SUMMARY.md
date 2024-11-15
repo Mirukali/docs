@@ -6,6 +6,7 @@
 * [Donations](donations.md)
 * [Command List](command-list.md)
 * [Support chain / Token](support-chain-token.md)
+* [Roadmap](roadmap.md)
 
 ## Feature
 
