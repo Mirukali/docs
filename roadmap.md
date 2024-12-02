@@ -1,13 +1,24 @@
 ---
 icon: bullhorn
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Roadmap
 
-### **Phase 1** <a href="#phase-1" id="phase-1"></a>
+### <mark style="color:orange;">**Phase 1**</mark> <a href="#phase-1" id="phase-1"></a>
 
 * **Objective:** Project foundation
-* **Timeline:** Dec 1 - Dec 15
+* **Timeline:** Dec 1 - Dec 31
 * **Details**:
   * **Market Research**:&#x20;
     * Analyze market trends&#x20;
@@ -21,10 +32,10 @@ icon: bullhorn
   * **Discord Bot Setup**:&#x20;
     * Build core game functions, including currency system, basic commands, and reward mechanisms.
 
-### **Phase 2** <a href="#phase-2" id="phase-2"></a>
+### <mark style="color:orange;">**Phase 2**</mark> <a href="#phase-2" id="phase-2"></a>
 
 * **Objective**: Core Gameplay
-* **Timeline**: Dec 16 - Jan 15
+* **Timeline**: Jan 1 - Feb 2
 * **Details**:
   * **Idle Gameplay Features:**&#x20;
     * Implement resource farming and daily quests.&#x20;
@@ -35,10 +46,10 @@ icon: bullhorn
     * Launch referral code feature to incentivize growth and reward player invitations.
     * Reward both referrers and referees with in-game bonuses.
 
-### **Phase 3** <a href="#phase-3" id="phase-3"></a>
+### <mark style="color:orange;">**Phase 3**</mark> <a href="#phase-3" id="phase-3"></a>
 
 * **Objective**: Maintenance and exploration
-* **Timeline**: Jan 16 - Jan 25
+* **Timeline**: Feb 3 - Feb 22
 * Details:
   * **Refinement:**
     * Address bugs and issues from testing.
@@ -51,10 +62,10 @@ icon: bullhorn
     * **NFTs and Unique Assets**: Introduce limited edition NFTs and unique assets for players.
     * **Wallet Compatibility**: Ensure compatibility with commonly used wallets to facilitate token and NFT management.
 
-### **Phase 4** <a href="#phase-4" id="phase-4"></a>
+### <mark style="color:orange;">**Phase 4**</mark> <a href="#phase-4" id="phase-4"></a>
 
 * Objective: Unity game Inegration
-* Timeline: Feb 3 - Feb 22
+* Timeline: Feb 3 - Feb 23
 * Details:
   * **Unity Development:**
     * Prototype pixel-art visuals and basic interactive elements.
@@ -65,10 +76,10 @@ icon: bullhorn
     * Expand guild functionality with group challenges and exclusive benefits.
     * Enhance the referral system with broader rewards and visibility.
 
-### **Phase 5** <a href="#phase-5" id="phase-5"></a>
+### <mark style="color:orange;">**Phase 5**</mark> <a href="#phase-5" id="phase-5"></a>
 
 * **Objective**: Beta testing and Expansion
-* **Timeline**: Feb 23 - Mar 15
+* **Timeline**: Apr 7 - May 31
 * **Details**:
   * **Public beta:**
     * **Open beta testing for a larger audience for feedback.**
@@ -85,10 +96,10 @@ icon: bullhorn
   * **XP Boosts and Rewards**:&#x20;
     * Expand activity-based XP gains, including boosts and events.
 
-### **Phase 6** <a href="#phase-6" id="phase-6"></a>
+### <mark style="color:orange;">**Phase 6**</mark> <a href="#phase-6" id="phase-6"></a>
 
 * **Objective**: Long-Term Development
-* **Timeline**: Mar 16 - further
+* **Timeline**: Jun 1 - Ongoing
 * **Details**:
   * **Feature Upgrades**:&#x20;
     * Continuously enhance features based on community feedback.
@@ -97,7 +108,7 @@ icon: bullhorn
   * **Sustainability and Scaling**:&#x20;
     * Expand server capabilities, optimize game mechanics, and ensure long-term stability.
 
-### **Extra Phase** <a href="#extra-phase" id="extra-phase"></a>
+### <mark style="color:orange;">**Extra Phase**</mark> <a href="#extra-phase" id="extra-phase"></a>
 
 * **Objective**: Multiple Platform
 * **Timeline**: Unknown
@@ -110,3 +121,19 @@ icon: bullhorn
 ***
 
 _This is the latest roadmap and will be updated as needed. Any changes to the roadmap will be recorded in the expandable sections below, with date and time of the update._
+
+<details>
+
+<summary>Changelog (2/12/2024 - 19:00 UTC+7)</summary>
+
+* Overview: Adjust timeline for each phase, increase total time to 6 months
+* Details
+  * Phase 1: ~~<mark style="background-color:red;">Dec 1 - Dec 15</mark>~~ -> <mark style="background-color:green;">Dec 1 - Dec 31</mark>
+  * Phase 2: ~~<mark style="background-color:red;">Dec 16 - Jan 15</mark>~~ -> <mark style="background-color:green;">Jan 1 - Feb 2</mark>
+  * Phase 3: ~~<mark style="background-color:red;">Jan 16 - Jan 25</mark>~~ -> <mark style="background-color:green;">Feb 3 - Fe</mark><mark style="background-color:green;">**b 23**</mark>
+  * Phase 4: ~~<mark style="background-color:red;">Feb 3 - Feb 22</mark>~~ -> <mark style="background-color:green;">Feb 24 - Ap</mark><mark style="background-color:green;">**r 6**</mark>
+  * Phase 5: ~~<mark style="background-color:red;">Feb 23 - Mar 15</mark>~~ -> <mark style="background-color:green;">Apr 7 - May 31</mark>
+  * Phase &#x36;**:** ~~<mark style="background-color:red;">Mar 16 - further</mark>~~ -> <mark style="background-color:green;">Jun 1 - Ongoing</mark>
+
+</details>
+
