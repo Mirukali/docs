@@ -1,5 +1,6 @@
 ---
 icon: turn-up
+hidden: true
 ---
 
 # Leveling

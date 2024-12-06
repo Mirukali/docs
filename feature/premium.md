@@ -1,5 +1,6 @@
 ---
 icon: circle-dollar-to-slot
+hidden: true
 ---
 
 # Premium

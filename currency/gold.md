@@ -1,5 +1,6 @@
 ---
 icon: ring
+hidden: true
 ---
 
 # Gold

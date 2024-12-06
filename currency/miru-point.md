@@ -1,5 +1,6 @@
 ---
 icon: scrubber
+hidden: true
 ---
 
 # Miru Point

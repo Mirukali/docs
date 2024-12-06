@@ -1,5 +1,6 @@
 ---
 icon: list-radio
+hidden: true
 ---
 
 # Command List

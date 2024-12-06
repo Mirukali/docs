@@ -1,5 +1,6 @@
 ---
 icon: computer-mouse
+hidden: true
 ---
 
 # Clicker

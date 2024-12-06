@@ -1,12 +1,11 @@
 # Table of contents
 
+## Information
+
 * [About us](README.md)
-* [Team](team.md)
-* [FAQ](faq.md)
-* [Donations](donations.md)
-* [Command List](command-list.md)
-* [Support chain / Token](support-chain-token.md)
-* [Roadmap](roadmap.md)
+* [Team](information/team.md)
+* [Donations](information/donations.md)
+* [Roadmap](information/roadmap.md)
 
 ## Feature
 
@@ -16,12 +15,26 @@
 * [Wallet](feature/wallet.md)
 * [Premium](feature/premium.md)
 * [Clicker](feature/clicker.md)
+* [Currency System](feature/currency-system.md)
+
+## Discord bot
+
+* [Command List](discord-bot/command-list.md)
+
+## Blockchain
+
+* [🐐 Token](blockchain/token.md)
+* [Supported Chain / Token](blockchain/supported-chain-token.md)
 
 ## Currency
 
 * [Gold](currency/gold.md)
 * [Miru Point](currency/miru-point.md)
-* [🐐 $MIRU](currency/usdmiru.md)
+
+## Support&#x20;
+
+* [FAQ](support/faq.md)
+* [Contact support](support/contact-support.md)
 
 ## Legal
 
@@ -30,4 +43,5 @@
 
 ***
 
+* [X](https://x.com/MirukaAlikuxac)
 * [Support server](https://discord.gg/8yfv46W)

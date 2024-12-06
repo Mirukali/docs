@@ -1,5 +1,6 @@
 ---
 icon: gamepad-modern
+hidden: true
 ---
 
 # Minigame
