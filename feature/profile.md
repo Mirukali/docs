@@ -8,21 +8,39 @@ icon: user
 All information is unofficial and may be subject to change in the future.
 {% endhint %}
 
-#### <mark style="color:orange;">Overview</mark>
+## <mark style="color:orange;">**Overview**</mark>
 
-Each user has a unique profile in the system. Upon profile creation, the bot generates a dedicated EVM wallet address on the Polygon network. Rewards are distributed based on multiple criteria, detailed below.
+Each user has a unique profile within the system. Upon creating a profile, the bot automatically generates a dedicated EVM wallet address on the Polygon network.
 
-<mark style="color:orange;">**Reward Criteria**</mark>
+The profile serves as the player's hub, displaying essential information such as:
 
-* **Account Age**: Based on the account creation date. Accounts less than one year old receive a 5% reduction in rewards (only applicable to accounts older than one month).
-* **Badges**: Specific rewards for users with particular badges, such as:
-  * **Nitro Subscriber**
-  * **Server Booster**
-  * **Early Supporter** (special badge)
-  * **Bug Hunter** (special badge)
-  * **Active Developer** (only available for verified public bots; requires submission)
-* **Profile Completeness**: Additional rewards for users with an avatar and banner.
+* **Level**: Track your progress and unlock new features.
+* **Currencies**: View your Gold, Miru Points, and Tokens balance.
+* **Equipment**: Manage and monitor your equipped items and inventory.
 
-<mark style="color:orange;">**Profile Deletion and Wallet Export**</mark>
+This is your go-to place to keep track of your journey and achievements in the game.
 
-Users have the option to request profile deletion. If a user does not export their wallet before deletion, the wallet remains associated with the bot. If the wallet is exported prior to deletion, all associated data, including the seed phrase and private key, is permanently removed from the database.
+***
+
+## <mark style="color:orange;">**Reward Criteria**</mark>
+
+Profiles can earn additional rewards based on the following criteria:
+
+1. **Account Age**
+   * Rewards are influenced by the age of the account.
+   * Accounts older than one month but less than one year receive a **5% reduction** in rewards.
+2. **Discord Badges**&#x20;
+   * Users holding specific badges can receive unique rewards, such as:
+     * **Early Supporter**: A badge for supporting the project early.
+     * **Bug Hunter**: A badge for reporting bugs and improving the system.
+3. **Profile Completeness**
+   * Players with a complete profile, including an avatar or a banner, receive **bonus rewards**.
+
+***
+
+#### Related Links
+
+* [How to level up faster in RPG Mode](leveling.md)
+* [Learn more about currencies](currency.md)
+* [Learn how to earn badges](../discord-bot/badge/)
+* [Discord Badges](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)

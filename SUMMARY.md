@@ -11,25 +11,35 @@
 
 * [Profile](feature/profile.md)
 * [Leveling](feature/leveling.md)
-* [Minigame](feature/minigame.md)
 * [Wallet](feature/wallet.md)
 * [Premium](feature/premium.md)
 * [Clicker](feature/clicker.md)
-* [Currency System](feature/currency-system.md)
+* [Currency](feature/currency.md)
+* [RPG](feature/rpg/README.md)
+  * [Getting started](feature/rpg/getting-started.md)
+  * [Areas](feature/rpg/areas.md)
+  * [Skill](feature/rpg/skill.md)
+  * [Idle RPG Gameplay](feature/rpg/idle-rpg-gameplay.md)
+* [Marketplace](feature/marketplace.md)
+* [Minigame](feature/minigame.md)
 
 ## Discord bot
 
-* [Command List](discord-bot/command-list.md)
+* [Commands](discord-bot/commands.md)
+* [Badge](discord-bot/badge/README.md)
+  * [😁 Beta Badge](discord-bot/badge/beta-badge.md)
+  * [Anniversary Badge](discord-bot/badge/anniversary-badge.md)
 
 ## Blockchain
 
 * [🐐 Token](blockchain/token.md)
+* [NFT](blockchain/nft/README.md)
+  * [Item NFTs](blockchain/nft/item-nfts.md)
 * [Supported Chain / Token](blockchain/supported-chain-token.md)
 
-## Currency
+## Community Guidelines
 
-* [Gold](currency/gold.md)
-* [Miru Point](currency/miru-point.md)
+* [Reward Eligibility](community-guidelines/reward-eligibility.md)
 
 ## Support&#x20;
 

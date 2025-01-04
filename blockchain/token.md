@@ -1,5 +1,6 @@
-# 🐐 $MIRU
+# 🐐 Token
 
-* Supply: 100.000.000
+* Supply: 1.000.000.000
 
 _**Coming soon...**_
+

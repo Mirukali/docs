@@ -2,13 +2,13 @@
 icon: sack-dollar
 ---
 
-# Currency System
+# Currency
 
 ### <mark style="color:orange;">Overview</mark>
 
 The **Currency System** is an essential part of the game’s economy. It features two primary currencies: **Gold** and **Miru Points (MP)**. Each currency serves a distinct purpose, providing players with opportunities for progression and access to premium features.
 
-#### <mark style="color:orange;">**Gold**</mark>
+### <mark style="color:orange;">**Gold**</mark>
 
 **Gold** is the primary, off-chain currency used for basic features and progression in the game. It is earned through regular gameplay and has an unlimited supply. Gold is used for everyday transactions, such as purchasing items and upgrading character attributes.
 
@@ -30,7 +30,7 @@ The **Currency System** is an essential part of the game’s economy. It feature
 
 ***
 
-#### <mark style="color:orange;">**Miru Points**</mark>
+### <mark style="color:orange;">**Miru Points**</mark>
 
 **Miru Points (MP)** are a premium, off-chain currency designed for rare items, upgrades, and blockchain interactions. Players can earn MP through achievements, special events, or direct purchases. MP plays a central role in unlocking advanced features, including converting to **Tokens** for blockchain-based features.
 
