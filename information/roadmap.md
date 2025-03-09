@@ -15,6 +15,10 @@ layout:
 
 # Roadmap
 
+{% hint style="warning" %}
+**The roadmap has been archived due to personal reasons.**
+{% endhint %}
+
 ### <mark style="color:orange;">**Phase 1**</mark> <a href="#phase-1" id="phase-1"></a>
 
 * **Objective:** Project foundation
