@@ -34,9 +34,7 @@ jobs:
       - name: Deploy to external repository
         uses: peaceiris/actions-gh-pages@v4
         with:
-          # You need to create a Personal Access Token (PAT) with repo scope,
-          # and add it as a secret named 'EXTERNAL_REPO_PAT' in this repository.
-          personal_token: ${{ secrets.EXTERNAL_REPO_PAT }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: Mirukali/Mirukali.github.io
           publish_branch: main
           publish_dir: ./build
