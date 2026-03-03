@@ -5,8 +5,6 @@ on:
     branches:
       - main
       - master
-    paths:
-      - 'docs/**' # Only trigger if changes happen in the docs directory
 
 permissions:
   contents: write
@@ -25,14 +23,12 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: docs/package-lock.json
+          cache-dependency-path: package-lock.json
 
       - name: Install Dependencies
-        working-directory: ./docs
         run: npm ci
 
       - name: Build Docusaurus
-        working-directory: ./docs
         run: npm run build
 
       - name: Deploy to external repository
@@ -43,7 +39,7 @@ jobs:
           personal_token: ${{ secrets.EXTERNAL_REPO_PAT }}
           external_repository: Mirukali/Mirukali.github.io
           publish_branch: main
-          publish_dir: ./docs/build
+          publish_dir: ./build
           cname: miruka.alikuxac.xyz
           keep_files: false
           user_name: 'github-actions[bot]'
