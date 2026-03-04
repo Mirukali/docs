@@ -34,7 +34,7 @@ jobs:
       - name: Deploy to external repository
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: Mirukali/Mirukali.github.io
           publish_branch: main
           publish_dir: ./build
