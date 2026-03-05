@@ -1,5 +1,6 @@
 ---
 icon: synagogue
+tags: [Legal, TOS]
 ---
 
 # Terms of Service

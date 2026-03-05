@@ -1,5 +1,6 @@
 ---
 icon: circle-dollar
+tags: [Information, Support, Global]
 ---
 
 # Donations

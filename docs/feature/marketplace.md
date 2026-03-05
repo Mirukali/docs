@@ -1,5 +1,6 @@
 ---
 icon: shop
+tags: [Feature, Economy, Marketplace]
 ---
 
 # Marketplace

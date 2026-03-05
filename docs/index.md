@@ -1,5 +1,6 @@
 ---
 icon: table-layout
+tags: [Information, Overview]
 ---
 
 # About us

@@ -1,6 +1,7 @@
 ---
 icon: list-radio
 hidden: true
+tags: [Discord Bot, Commands]
 ---
 
 # Commands

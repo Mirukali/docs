@@ -1,5 +1,6 @@
 ---
 icon: wallet
+tags: [Feature, Web3, Wallet]
 ---
 
 # Wallet

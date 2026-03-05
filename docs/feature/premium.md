@@ -1,6 +1,7 @@
 ---
 icon: circle-dollar-to-slot
 hidden: true
+tags: [Feature, Premium, Support]
 ---
 
 # Premium

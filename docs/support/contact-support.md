@@ -1,5 +1,6 @@
 ---
 icon: headset
+tags: [Support, Contact]
 ---
 
 # Contact support

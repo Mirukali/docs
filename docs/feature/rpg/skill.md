@@ -1,3 +1,6 @@
+---
+tags: [Feature, RPG, Skill]
+---
 # Skill
 
 ## <mark style={{color: 'orange'}}>Overview</mark>

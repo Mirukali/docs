@@ -1,6 +1,7 @@
 ---
 icon: gamepad-modern
 hidden: true
+tags: [Feature, Gameplay, Mini-game]
 ---
 
 # Minigame

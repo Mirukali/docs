@@ -1,5 +1,6 @@
 ---
 icon: thumbtack
+tags: [Support, FAQ]
 ---
 
 # FAQ

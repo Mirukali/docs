@@ -1,5 +1,6 @@
 ---
 icon: treasure-chest
+tags: [Community, Reward]
 ---
 
 # Reward Eligibility

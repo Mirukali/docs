@@ -1,5 +1,6 @@
 ---
 icon: party-horn
+tags: [Discord Bot, Badge, Rewards]
 layout:
   title:
     visible: true

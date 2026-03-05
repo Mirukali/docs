@@ -1,5 +1,6 @@
 ---
 hidden: true
+tags: [Blockchain, NFT, Economy]
 layout:
   title:
     visible: true

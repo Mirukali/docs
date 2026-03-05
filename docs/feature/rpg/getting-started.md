@@ -1,4 +1,5 @@
 ---
+tags: [Feature, RPG, Tutorial]
 layout:
   title:
     visible: true

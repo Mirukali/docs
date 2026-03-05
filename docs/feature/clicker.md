@@ -1,6 +1,7 @@
 ---
 icon: computer-mouse
 hidden: true
+tags: [Feature, Gameplay, Clicker]
 ---
 
 # Clicker

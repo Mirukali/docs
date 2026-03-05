@@ -1,5 +1,6 @@
 ---
 icon: turn-up
+tags: [Feature, RPG, XP]
 ---
 
 # Leveling

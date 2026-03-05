@@ -1,5 +1,6 @@
 ---
 icon: unlock-keyhole
+tags: [Legal, Privacy]
 ---
 
 # Privacy Policy

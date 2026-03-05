@@ -1,5 +1,6 @@
 ---
 icon: sack-dollar
+tags: [Feature, Economy, Currency]
 ---
 
 # Currency

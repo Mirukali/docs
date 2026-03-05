@@ -1,6 +1,7 @@
 ---
 description: Show list of chain / token that will you token for tipping
 icon: link-simple
+tags: [Blockchain, Chain, Tokens]
 ---
 
 # Support chain / Token

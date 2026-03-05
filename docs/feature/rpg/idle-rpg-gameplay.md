@@ -1,3 +1,6 @@
+---
+tags: [Feature, RPG, Idle]
+---
 # Idle RPG Gameplay
 
 ## **Core Mechanics**

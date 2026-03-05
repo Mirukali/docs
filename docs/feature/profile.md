@@ -1,5 +1,6 @@
 ---
 icon: user
+tags: [Feature, RPG, Profile]
 ---
 
 # Profile

@@ -1,5 +1,6 @@
 ---
 icon: people-group
+tags: [Information, Team, Project]
 ---
 
 # Team

@@ -1,5 +1,6 @@
 ---
 icon: bullhorn
+tags: [Information, Development, Roadmap]
 layout:
   title:
     visible: true

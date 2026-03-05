@@ -1,4 +1,5 @@
 ---
+tags: [Discord Bot, Badge, Beta]
 layout:
   title:
     visible: true

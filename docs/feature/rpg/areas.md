@@ -1,4 +1,5 @@
 ---
+tags: [Feature, RPG, Gameplay, Area]
 layout:
   title:
     visible: true
