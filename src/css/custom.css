@@ -29,7 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* Remove default background for mark inside headings */
-h1 mark, h2 mark, h3 mark, h4 mark, h5 mark, h6 mark {
+/* Remove default yellow background for all mark tags (highlights) */
+mark {
   background-color: transparent !important;
 }
