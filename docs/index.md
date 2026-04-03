@@ -1,7 +1,8 @@
 ---
 slug: /
 title: Overview
-hide_title: true
+hide_title: Home
+description: Discover Miruka, the next-generation Dark Fantasy RPG Discord bot with AI Art and Web3 integration.
 ---
 
 import Admonition from '@theme/Admonition';

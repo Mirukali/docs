@@ -6,8 +6,14 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Miruka',
-  tagline: 'Miruka Discord Bot',
+  tagline: 'The Ultimate Dark Fantasy RPG Experience on Discord',
   favicon: 'img/favicon.ico',
+
+  // SEO Metadata
+  customFields: {
+    description: 'Miruka is a next-generation Discord RPG bot built with Sapphire Framework, featuring deep game mechanics, AI-generated art, and Web3 integration on Polygon.',
+    keywords: 'Miruka, Discord RPG Bot, Dark Fantasy, Web3 Gaming, Polygon NFT, AI Art Discord, Sapphire Bot, Blockchain Game',
+  },
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -64,7 +70,8 @@ const config: Config = {
       title: 'Miruka',
       logo: {
         alt: 'Miruka Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
+        className: 'custom-logo-circle',
       },
       items: [
         {

@@ -120,3 +120,17 @@ mark {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--ifm-color-primary);
 }
+
+/* Navbar Logo Custom Styling */
+.custom-logo-circle {
+  border-radius: 50%;
+  border: 1.5px solid var(--gold-primary);
+  box-shadow: 0 0 10px var(--gold-glow);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  margin-right: 8px;
+}
+
+.custom-logo-circle:hover {
+  transform: scale(1.1) rotate(8deg);
+  box-shadow: 0 0 20px var(--gold-glow);
+}

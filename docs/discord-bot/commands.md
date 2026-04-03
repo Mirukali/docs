@@ -1,7 +1,9 @@
 ---
 icon: list-radio
 hidden: true
-tags: [Discord Bot, Commands]
+tags: [Discord Bot]
+title: Commands
+description: Complete list of Miruka Discord bot commands, including RPG mechanics, gathering, and Web3 features.
 ---
 
 # Commands

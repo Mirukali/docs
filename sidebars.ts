@@ -9,9 +9,19 @@ const sidebars: SidebarsConfig = {
       collapsed: false,
       items: [
         { type: 'doc', id: 'index', label: 'About us' },
+        'information/lore',
+        'information/roadmap',
         'information/team',
         'information/donations',
-        'information/roadmap',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'GAME MECHANICS',
+      collapsible: false,
+      collapsed: false,
+      items: [
+        'game-mechanics/stats',
       ],
     },
     {

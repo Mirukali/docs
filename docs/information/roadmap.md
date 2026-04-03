@@ -1,14 +1,7 @@
 ---
-icon: bullhorn
-tags: [Information, Development, Roadmap]
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
----
+title: Roadmap
+description: Follow the development of Miruka, from core RPG mechanics to advanced Web3 and NFT features.
+sidebar_label: Roadmap
 icon: bullhorn
 tags: [Information, Development, Roadmap]
 layout:
