@@ -1,5 +1,5 @@
 :root {
-  /* Color Palette - Miruka Gold Theme */
+  /* Common Design Tokens */
   --ifm-color-primary: #eab308;
   --ifm-color-primary-dark: #ca8a04;
   --ifm-color-primary-darker: #a16207;
@@ -7,22 +7,31 @@
   --ifm-color-primary-light: #facc15;
   --ifm-color-primary-lighter: #fde047;
   --ifm-color-primary-lightest: #fef08a;
-
-  --miruka-bg: #0f172a;
-  --miruka-card-bg: rgba(30, 41, 59, 0.7);
-  --miruka-border: rgba(234, 179, 8, 0.2);
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --miruka-glass: blur(12px) saturate(180%);
   
+  /* Light Mode (Safe Defaults) */
+  --miruka-bg: #f8fafc;
+  --miruka-card-bg: #ffffff;
+  --miruka-border: rgba(234, 179, 8, 0.3);
   --ifm-background-color: var(--miruka-bg);
-  --ifm-navbar-background-color: rgba(15, 23, 42, 0.8);
-  --ifm-footer-background-color: #020617;
-  
-  --ifm-heading-color: #f8fafc;
-  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-navbar-background-color: rgba(255, 255, 255, 0.9);
+  --ifm-footer-background-color: #1e293b;
+  --ifm-heading-color: #0f172a;
+  --gold-primary: #ca8a04;
+  --gold-glow: rgba(234, 179, 8, 0.3);
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #eab308;
+  --miruka-bg: #0f172a;
+  --miruka-card-bg: rgba(30, 41, 59, 0.7);
+  --miruka-border: rgba(234, 179, 8, 0.2);
+  --ifm-background-color: var(--miruka-bg);
+  --ifm-navbar-background-color: rgba(15, 23, 42, 0.8);
+  --ifm-footer-background-color: #020617;
+  --ifm-heading-color: #f8fafc;
+  --gold-primary: #eab308;
+  --gold-glow: rgba(234, 179, 8, 0.5);
   --docusaurus-highlighted-code-line-bg: rgba(234, 179, 8, 0.1);
 }
 
@@ -65,7 +74,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
   backdrop-filter: var(--miruka-glass);
-  border: 1px solid rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--miruka-border);
 }
 
 /* Tables Styling */
@@ -98,9 +107,10 @@ h1 {
 
 mark {
   background-color: rgba(234, 179, 8, 0.2) !important;
-  color: #fef08a !important;
+  color: var(--ifm-heading-color) !important;
   padding: 0.2rem 0.4rem;
   border-radius: 4px;
+  font-weight: 600;
 }
 
 /* Custom Scrollbar */
