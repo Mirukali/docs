@@ -5,7 +5,7 @@ tags: [Legal, Privacy]
 
 # Privacy Policy
 
-### Privacy Policy for FlipGuard <a href="#privacy-policy-for-flipguard" id="privacy-policy-for-flipguard"></a>
+### Privacy Policy for Miruka <a href="#privacy-policy-for-miruka" id="privacy-policy-for-miruka"></a>
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 

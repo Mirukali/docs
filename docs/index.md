@@ -1,26 +1,62 @@
 ---
-icon: table-layout
-tags: [Information, Overview]
+slug: /
+title: Overview
+hide_title: true
 ---
 
-# About us
+import Admonition from '@theme/Admonition';
 
-Welcome to **Miruka** - a Discord bot that brings an immersive RPG experience to the Web3 world! Built on the Polygon network, Miruka combines the best of blockchain technology and RPG gameplay to create an engaging and rewarding experience for players.
+<div className="hero-container" style={{
+  padding: '4rem 0',
+  textAlign: 'center',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  gap: '1.5rem'
+}}>
+  <img src="/img/logo.svg" alt="Miruka Logo" width="150" height="150" style={{
+    filter: 'drop-shadow(0 0 20px rgba(234, 179, 8, 0.3))'
+  }} />
+  <h1 style={{
+    fontSize: '3.5rem',
+    fontWeight: '900',
+    background: 'linear-gradient(to right, #eab308, #facc15)',
+    WebkitBackgroundClip: 'text',
+    WebkitTextFillColor: 'transparent',
+    margin: 0
+  }}>MIRUKA</h1>
+  <p style={{
+    fontSize: '1.5rem',
+    color: '#94a3b8',
+    maxWidth: '600px'
+  }}>
+    The ultimate Discord RPG ecosystem powered by the Polygon blockchain.
+  </p>
+  <div style={{ display: 'flex', gap: '1rem' }}>
+    <a href="/discord-bot/commands" className="button button--primary button--lg">Explore Commands</a>
+    <a href="https://discord.gg/8yfv46W" className="button button--outline button--secondary button--lg">Join Discord</a>
+  </div>
+</div>
 
-About the Project Founded by [Alikuxac](mailto:admin@alikuxac.xyz), **Miruka** is designed to deliver a unique and decentralized gaming experience directly through Discord. By leveraging the power of Web3, players can own, trade, and upgrade their in-game assets on the blockchain, all while exploring a rich, fantasy world filled with quests, battles, and adventure.
+<hr />
 
-#### <mark style={{color: 'orange'}}>**Key Features**</mark>
+## 🌟 Welcome to Miruka
 
-* Blockchain Integration: Own and trade your in-game assets on the Polygon network.
-* AI-Generated Art: Every character, item, and scene is brought to life through stunning AI-generated visuals, giving players an experience that is both captivating and one-of-a-kind.
-* RPG Mechanics: Level up your character, complete quests, and engage in epic battles. Community-Driven: Join forces with other players, form alliances, and shape the **Miruka** universe together.
+**Miruka** is not just another Discord bot. It's an immersive RPG world where you can embark on quests, battle monsters, and truly own your digital assets through the power of Web3.
 
-#### <mark style={{color: 'orange'}}>Project Funding Disclaimer</mark>
+### <mark>Core Features</mark>
 
-This project is currently self-funded, with a starting budget of **$0**. Rewards distributed to users are based on available donations, funding, or similar contributions made to the project. We aim to provide an engaging and rewarding experience, and all contributions directly support and enhance the game’s ecosystem.
+*   **Deep RPG Mechanics**: Leveling systems, character stats, diverse equipment, and skills.
+*   **Web3 Economy**: Own and trade in-game items as NFTs on the Polygon network.
+*   **AI-Generated Art**: Hand-crafted AI visuals for every item, monster, and landscape, ensuring a unique experience.
+*   **Quest Driven**: Engaging main storylines and daily quests with valuable rewards.
 
-#### <mark style={{color: 'orange'}}>**Get Started**</mark>
+:::warning Note
+The project is currently in **Active Development (Alpha)**. Some features may be incomplete or subject to change.
+:::
 
-Type _**/start**_ on [Discord](https://discord.gg/8yfv46W) to begin your journey in **Miruka**, and let the adventure unfold! Join us as we redefine gaming on Web3, one quest at a time.
+## ⚔️ Start Your Journey
 
-Let’s dive into the world of **Miruka** and see what the future holds!
+To begin, use the `/start` command in the Miruka Discord server. Your adventure starts with gathering resources and completing basic training quests.
+
+Enjoy your experience in the world of **Miruka**!

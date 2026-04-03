@@ -6,72 +6,66 @@ tags: [Discord Bot, Commands]
 
 # Commands
 
-## **Introduction**
+Welcome to the **Miruka Bot** command list. Commands are categorized to help you easily find what you need.
 
-This page lists all available commands, organized into categories for easier navigation. Each command includes usage examples with arguments.
+:::info Status
+Commands marked with `[Alpha]` or `[Dev]` are currently under development and mechanics may change at any time.
+:::
 
-## **Command Categories**
+## 📋 Command Categories
 
-Commands are divided into the following categories:
+### 1. Account & Profile
+Manage your adventurer's information and account.
 
-1. [**Account & Profile**](commands.md#id-1.-account-and-profile)
-2. [**In-Game Actions**](commands.md#id-2.-in-game-actions)
-3. [**Currency & Wallet**](commands.md#id-3.-currency-and-wallet)
-4. [**Settings & Management**](commands.md#id-4.-settings-and-management)
-5. [**Beta Features**](commands.md#id-5.-beta-features)
+| Command | Description | Status |
+| :--- | :--- | :--- |
+| `/start` | Begin your journey and create a character profile. | `Stable` |
+| `/profile` | Display stats, items, and personal achievements. | `Stable` |
+| `/daily` | Claim your daily login rewards. | `Stable` |
+| `/invite` | Get the link to invite the bot to your server. | `Stable` |
 
-***
+---
 
-### **1. Account & Profile**
+### 2. Core RPG Mechanics
+Primary interactions with the world of Miruka.
 
-| **Command** | **Description**                                               | **Usage**  | **Example** |
-| ----------- | ------------------------------------------------------------- | ---------- | ----------- |
-| `/start`    | Starts your game journey and registers your profile.          | `/start`   | `/start`    |
-| `/profile`  | Displays your player profile, stats, items, and achievements. | `/profile` | `/profile`  |
-| `/invite`   | Provides a link to invite friends to the server.              | `/invite`  | `/invite`   |
+| Command | Description | Status |
+| :--- | :--- | :--- |
+| `/quest` | View and accept missions (Daily/Storyline). | `[Alpha]` |
+| `/area` | Travel between different regions in the game. | `[Alpha]` |
+| `/crate` | Open loot crates to receive random items. | `[Alpha]` |
+| `/equipment` | Manage and change your character's current gear. | `[Alpha]` |
+| `/shop` | Buy and sell items using in-game currency. | `[Alpha]` |
 
-***
+---
 
-### **2. In-Game Actions**
+### 3. Gathering & Resources
+Collect resources for upgrades or crafting.
 
-| **Command** | **Description**                       | **Usage** | **Example** |
-| ----------- | ------------------------------------- | --------- | ----------- |
-| `/chop`     | Chop wood to gather resources.        | `/chop`   | `/chop`     |
-| `/fis`h     | Catch fish for resources              | `/fish`   | `/fish`     |
-| `/hunt`     | Hunt animal?                          | `/hunt`   | `/hunt`     |
-| `/mine`     | Mine for valuable ores and materials. | `/mine`   | `/mine`     |
+| Command | Description | Status |
+| :--- | :--- | :--- |
+| `/chop` | Chop trees to gather wood resources. | `Stable` |
+| `/fish` | Catch fish from various water sources. | `Stable` |
+| `/mine` | Extract minerals and precious ores. | `Stable` |
+| `/hunt` | Hunt creatures for rare materials. | `Stable` |
 
-***
+---
 
-### **3. Currency & Wallet**
+### 4. Web3 & Economy
+Manage assets on the blockchain.
 
-| **Command** | **Description**                                       | **Usage** | **Example** |
-| ----------- | ----------------------------------------------------- | --------- | ----------- |
-| `/wallet`   | View and manage your Web3 wallet and in-game currency | `/wallet` | `/wallet`   |
+| Command | Description | Status |
+| :--- | :--- | :--- |
+| `/wallet` | View wallet address and manage Web3 assets. | `[Dev]` |
+| `/nft` | List of NFT items you currently own. | `[Dev]` |
 
-***
+---
 
-### **4. Settings & Management**
+## 💡 How to Use
 
-| **Command**    | **Description**                                        | **Usage**      | **Example**    |
-| -------------- | ------------------------------------------------------ | -------------- | -------------- |
-| `/settings`    | Configure your personal game settings and preferences. | `/settings`    | `/settings`    |
-| `/leaderboard` | View the top players and track your ranking.           | `/leaderboard` | `/leaderboard` |
+To use a command, type `/` followed by the command name in any Discord channel.
 
-***
+* **Simple Example**: `/start`
+* **With Arguments**: `/quest view` or `/shop buy id:1`
 
-### **5. Beta Features**
-
-| **Command**    | **Description**                                       | **Usage**      | **Example**    |
-| -------------- | ----------------------------------------------------- | -------------- | -------------- |
-| `/nft`         | View and manage your non-transferable Beta NFT items. | `/nft`         | `/nft`         |
-| `/earlyaccess` | Grants access to exclusive beta content and rewards.  | `/earlyaccess` | `/earlyaccess` |
-
-***
-
-#### **How to Use**
-
-To use any command, simply type it in the chat with a `/`, followed by the command name. If the command requires arguments, follow it with the relevant parameters. For example:
-
-* **No Arguments**: Type `/start` to begin your journey.
-* **With Arguments**: Type `/battle goblin` to engage in battle with a goblin.
+_This list is automatically updated as new commands are deployed to the bot._
