@@ -1,7 +1,7 @@
 ---
 slug: /
 title: Overview
-hide_title: Home
+hide_title: true
 description: Discover Miruka, the next-generation Dark Fantasy RPG Discord bot with AI Art and Web3 integration.
 ---
 
