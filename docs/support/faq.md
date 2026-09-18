@@ -9,7 +9,7 @@ tags: [Support, FAQ]
 
 ### What is this game about?
 
-A: This is a Web3-enabled RPG game integrated with Discord, featuring blockchain elements like tokens, NFTs, and an engaging RPG gameplay experience.
+A: This is an immersive RPG bot integrated with Discord, featuring rich game mechanics, resource gathering, mini-games, and community features.
 
 ### How do I start playing?
 

@@ -33,7 +33,7 @@ The **Currency System** is an essential part of the game’s economy. It feature
 
 ### <mark style={{color: 'orange'}}>**Miru Points**</mark>
 
-**Miru Points (MP)** are a premium, off-chain currency designed for rare items, upgrades, and blockchain interactions. Players can earn MP through achievements, special events, or direct purchases. MP plays a central role in unlocking advanced features, including converting to **Tokens** for blockchain-based features.
+**Miru Points (MP)** are a premium, off-chain currency designed for rare items, cosmetics, and special upgrades. Players can earn MP through achievements, special events, or direct purchases.
 
 * **Overview**
   * **Symbol**: MP
@@ -46,9 +46,7 @@ The **Currency System** is an essential part of the game’s economy. It feature
     * Participating in special events.
   * **Spending**:
     * Buying rare or event-specific items.
-    * Converting to Tokens for blockchain interactions.
 * **Conversion**
   * **From Gold**: Not available.
-  * **To Tokens**: Conversion rates will be announced later.
 * **Limitations**
-  * Conversion attempts are limited by player level and daily limits.
+  * Daily acquisition limits may apply based on player progress.

@@ -2,7 +2,7 @@
 slug: /
 title: Overview
 hide_title: true
-description: Discover Miruka, the next-generation Dark Fantasy RPG Discord bot with AI Art and Web3 integration.
+description: Discover Miruka, the next-generation Dark Fantasy RPG Discord bot with AI Art and deep economy.
 ---
 
 import Admonition from '@theme/Admonition';
@@ -31,7 +31,7 @@ import Admonition from '@theme/Admonition';
     color: '#94a3b8',
     maxWidth: '600px'
   }}>
-    The ultimate Discord RPG ecosystem powered by the Polygon blockchain.
+    The ultimate Discord RPG ecosystem with rich gameplay and community features.
   </p>
   <div style={{ display: 'flex', gap: '1rem' }}>
     <a href="/discord-bot/commands" className="button button--primary button--lg">Explore Commands</a>
@@ -43,12 +43,12 @@ import Admonition from '@theme/Admonition';
 
 ## 🌟 Welcome to Miruka
 
-**Miruka** is not just another Discord bot. It's an immersive RPG world where you can embark on quests, battle monsters, and truly own your digital assets through the power of Web3.
+**Miruka** is an immersive RPG world on Discord where you can embark on quests, battle monsters, gather resources, and build your legacy.
 
 ### <mark>Core Features</mark>
 
 *   **Deep RPG Mechanics**: Leveling systems, character stats, diverse equipment, and skills.
-*   **Web3 Economy**: Own and trade in-game items as NFTs on the Polygon network.
+*   **Rich Economy**: Earn Gold, Miru Points (MP), and Era-specific currencies through quests and gathering.
 *   **AI-Generated Art**: Hand-crafted AI visuals for every item, monster, and landscape, ensuring a unique experience.
 *   **Quest Driven**: Engaging main storylines and daily quests with valuable rewards.
 

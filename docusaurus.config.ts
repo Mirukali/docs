@@ -11,8 +11,8 @@ const config: Config = {
 
   // SEO Metadata
   customFields: {
-    description: 'Miruka is a next-generation Discord RPG bot built with Sapphire Framework, featuring deep game mechanics, AI-generated art, and Web3 integration on Polygon.',
-    keywords: 'Miruka, Discord RPG Bot, Dark Fantasy, Web3 Gaming, Polygon NFT, AI Art Discord, Sapphire Bot, Blockchain Game',
+    description: 'Miruka is a next-generation Discord RPG bot built with Sapphire Framework, featuring deep game mechanics, AI-generated art, and rich economy.',
+    keywords: 'Miruka, Discord RPG Bot, Dark Fantasy, AI Art Discord, Sapphire Bot, RPG Game',
   },
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
