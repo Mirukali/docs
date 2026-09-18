@@ -3,7 +3,7 @@ icon: list-radio
 hidden: true
 tags: [Discord Bot]
 title: Commands
-description: Complete list of Miruka Discord bot commands, including RPG mechanics, gathering, and Web3 features.
+description: Complete list of Miruka Discord bot commands, including RPG mechanics and gathering features.
 ---
 
 # Commands
@@ -52,14 +52,6 @@ Collect resources for upgrades or crafting.
 | `/hunt` | Hunt creatures for rare materials. | `Stable` |
 
 ---
-
-### 4. Web3 & Economy
-Manage assets on the blockchain.
-
-| Command | Description | Status |
-| :--- | :--- | :--- |
-| `/wallet` | View wallet address and manage Web3 assets. | `[Dev]` |
-| `/nft` | List of NFT items you currently own. | `[Dev]` |
 
 ---
 

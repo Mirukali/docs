@@ -25,7 +25,7 @@ As a new adventurer, you are tasked with:
 
 ## 🔥 The Quest for Power
 
-Legend says that those who master the **Four Core Elements (HP, ATK, DEF, LUK)** will eventually unlock the secrets of the **Polygon Dimension (Web3)**, a place where treasures are reality and items possess eternal value (NFTs).
+Legend says that those who master the **Four Core Elements (HP, ATK, DEF, LUK)** will eventually unlock the secrets of the **Forbidden Realm**, a place where legendary treasures await and items possess extraordinary power.
 
 The path is dangerous, but with Miruka by your side, the path is clear. Will you become the next legendary hero of this realm?
 

@@ -11,12 +11,12 @@ All information is unofficial and may be subject to change in the future.
 
 ## <mark style={{color: 'orange'}}>**Overview**</mark>
 
-Each user has a unique profile within the system. Upon creating a profile, the bot automatically generates a dedicated EVM wallet address on the Polygon network.
+Each user has a unique profile within the system. Upon creating a profile, you can view your progress, stats, and achievements.
 
 The profile serves as the player's hub, displaying essential information such as:
 
 * **Level**: Track your progress and unlock new features.
-* **Currencies**: View your Gold, Miru Points, and Tokens balance.
+* **Currencies**: View your Gold and Miru Points balance.
 * **Equipment**: Manage and monitor your equipped items and inventory.
 
 This is your go-to place to keep track of your journey and achievements in the game.

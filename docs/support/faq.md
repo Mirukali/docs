@@ -21,14 +21,7 @@ A: Use the `/start` command to create your profile and begin your adventure.
 
 ### **What happens when I delete my profile?**
 
-A: When you request to delete your profile, the following will occur:
-
-* If your wallet is **not exported**, it will remain associated with the bot.
-* If your wallet is **exported** before deletion, all data associated with it, including the seed phrase and private key, will be permanently deleted from our database.
-
-### **How do I export my wallet?**
-
-A: You can export your wallet through the `/wallet export` command. Follow the instructions provided to securely store your seed phrase and private key.
+A: When you request to delete your profile, all your profile data and progress associated with your Discord ID will be permanently deleted from our database.
 
 ***
 
@@ -36,7 +29,7 @@ A: You can export your wallet through the `/wallet export` command. Follow the i
 
 ### How can I earn Gold or Miru Points?
 
-A: You can earn Gold through minigames, quests, and the RPG mode. Miru Points are earned by completing social tasks or through premium activities.
+A: You can earn Gold through minigames, quests, and gathering. Miru Points are earned through achievements, daily tasks, or special events.
 
 ### What is the Clicker minigame?
 
@@ -48,11 +41,7 @@ A: [Clicker](../feature/clicker.md) is a simple game where you click repeatedly 
 
 ### Is my data secure?
 
-A: Yes, all sensitive data, including wallet information, is securely stored and encrypted.
-
-### Can I recover my wallet if I lose the seed phrase?
-
-A: Maybe, you can recover your wallet as long as your profile has not been deleted. Please contact our team as soon as possible for assistance.
+A: Yes, all user profile and game data are securely stored and protected.
 
 ***
 

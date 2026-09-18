@@ -6,7 +6,7 @@ icon: swords
 
 ## **Overview**
 
-The RPG system in our Web3 project allows players to embark on a journey of exploration, battle, and crafting. Whether you're a beginner or a seasoned adventurer, there's always something new to discover.
+The RPG system in Miruka allows players to embark on a journey of exploration, battle, and crafting. Whether you're a beginner or a seasoned adventurer, there's always something new to discover.
 
 ***
 

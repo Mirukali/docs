@@ -1,25 +1,14 @@
 ---
 title: Roadmap
-description: Follow the development of Miruka, from core RPG mechanics to advanced Web3 and NFT features.
+description: Follow the development of Miruka, from core RPG mechanics to advanced features.
 sidebar_label: Roadmap
 icon: bullhorn
 tags: [Information, Development, Roadmap]
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Roadmap
 
-Welcome to the **Miruka Project** development roadmap. We are committed to building a robust Discord RPG ecosystem integrated with Web3 technology.
+Welcome to the **Miruka Project** development roadmap. We are committed to building a robust Discord RPG ecosystem.
 
 :::tip
 This roadmap is subject to change based on community feedback and technical progress.
@@ -38,10 +27,10 @@ This roadmap is subject to change based on community feedback and technical prog
 * **Gathering System**: Upgrading `/chop`, `/fish`, `/mine`, `/hunt` with realistic drop rates and XP.
 * **Crate System**: Loot box system (`/crate`) with varying rarity levels.
 
-### Phase 3: Web3 & Blockchain Integration (Upcoming)
-* **Wallet Connection**: Integrating `ethers.ts` for direct Web3 wallet connection within Discord.
-* **Polygon Network**: Deploying Smart Contracts on Polygon for Token and NFT management.
-* **NFT Assets**: Converting rare in-game items into tradable NFTs.
+### Phase 3: Advanced RPG & Raids (Upcoming)
+* **Dungeon & Raids**: Boss battles and team-based dungeon crawling.
+* **Crafting System**: Combine gathered resources to forge weapons and armor.
+* **Pet & Mount System**: Companion beasts assisting in combat and gathering.
 
 ### Phase 4: Community & Scaling
 * **Guild System**: Advanced guild features, shared storage, and member buffs.
@@ -56,7 +45,7 @@ This roadmap is subject to change based on community feedback and technical prog
 | :--- | :--- | :--- |
 | `v0.0.1` | **Development** | Project initialization, Sapphire Framework. |
 | `v0.1.0` | **Alpha** | Basic RPG mechanics (Gathering, Quests). |
-| `v0.2.0` | **Beta** | Web3 Integration, Blockchain Assets. |
+| `v0.2.0` | **Beta** | Dungeons, Advanced Economy, Guild System. |
 
 ---
 

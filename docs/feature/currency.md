@@ -27,7 +27,6 @@ The **Currency System** is an essential part of the game’s economy. It feature
     * Upgrading character skills and levels.
 * **Conversion**
   * **To Miru Points (MP)**: Not available.
-  * **To Tokens**: Not available.
 
 ***
 

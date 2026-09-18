@@ -21,32 +21,12 @@ We Miruka, own and retain all rights for public available data (including but no
 
 Miruka is provided as-is. There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time. User related data including backups may be deleted at any time. User related data including backups is non-transferable between discord accounts. Any premium features are not guaranteed. They may change or be revoked at any time. Access to all or specific features of Miruka may be revoked, for all or a specific user, at any time.
 
-### Wallet <a href="#wallet" id="wallet"></a>
+### Account & User Data <a href="#account-user-data" id="account-user-data"></a>
 
-In order to access and use the Miruka services, you agree to create an account with us. During this process we automatically collect some information from your discord ID. Hence, we create a Miruka Wallet for you tied to your Discord ID. You agree that You will not use any wallet other than your own, or access the wallet of any other user at any time, or assist others in obtaining unauthorized access. All information You provide to us during wallet creation will be treated in accordance with our Privacy Policy, which you are required to read also. You are responsible for any activity that occurs with your account credentials so you are required to keep your account credentials secure and out of reach from third-party users.
+In order to access and use Miruka services, an account is created using your Discord ID. You are responsible for any activity that occurs under your account. All information provided will be treated in accordance with our Privacy Policy.
 
-### Gas Fees <a href="#gas-fees" id="gas-fees"></a>
+### Reward System Policy <a href="#reward-system-policy" id="reward-system-policy"></a>
 
-To deposit and/or withdraw Crypto Assets via the Miruka wallet , you agree to pay a transaction fee (a "Network Fee") for every transaction that occurs on the network. The Network Fee funds the network of computers that run the decentralized network. This means that you will need to pay a Network Fee for each transaction.
-
-We do not provide refunds for any transaction that you might make on or through the Miruka Platform – whether for Miruka or anything else. You will be solely responsible to pay any and all sales, use, value-added, and other taxes, gas fees, and assessments (except taxes on our net income) now or hereafter claimed or imposed by any governmental authority associated with your use of the Miruka software, except for income taxes levied on us as a result of such using Miruka.
-
-### Assumption of Risks <a href="#assumption-of-risks" id="assumption-of-risks"></a>
-
-Any deposit or withdrawal transaction you make, you accept will be entirely at your risk. You acknowledge that you have obtained sufficient information to make an informed decision to transact a Crypto Asset, including carefully reviewing the code of the smart contract for assets we support and fully understand and accept the functions of the same. Certain parts of the Miruka site may display, include, or make available content, data, information, applications, or materials from third parties ("Third Party Materials").
-
-### Reward System and Off-Chain Bank Functionality Policy <a href="#reward-system-and-off-chain-bank-functionality-policy" id="reward-system-and-off-chain-bank-functionality-policy"></a>
-
-1. **Reward Wallet and Off-Chain Bank System**
-
-1.1 Reward Wallet Responsibility: By using the Bank, you agree to maintain a sufficient balance in your designated Reward Wallet to cover any claims made by community members. This custodial wallet, accessible through the Miruka dashboard, must be adequately funded to fulfill reward claims in a timely and accurate manner.
-
-1.2 Bank System Overview: The Bank system offers a flexible off-chain solution to manage community rewards with reduced on-chain gas fees. When enabled, the Bank system allows rewards to be tallied as an off-chain balance for each community member until they claim these rewards. You, as the project administrator, moderator or team member, are responsible for setting the claim availability and frequency in relation to the balance available in your Reward Wallet and are fully responsible for maintaining that balance.
-
-1.3 Claim Process: In order for a claim to be successfully processed, the reward wallet must have an available balance equal to or exceeding the total of the claims. Monitoring and maintaining the Reward Wallet balance is the responsibility of the project, and our service does not guarantee successful claims if sufficient funds are not available.
-
-2. **Prohibited Uses and Violations**
-
-2.1 System Exploitation: Any attempt to exploit the Bank system or other reward mechanisms, including but not limited to, manipulating off-chain balances or falsely rewarding users without a sufficient balance, is strictly prohibited and will result in an account suspension or permanent ban.
-
-2.2 Account Suspension: Violation of any terms, including misuse or exploitation of the Bank system or Reward Wallet, may result in immediate suspension or termination of your account without prior notice, at our sole discretion. We reserve the right to take any additional actions as necessary to protect our platform and other users from fraudulent activity.
+1. **In-game Rewards**
+   1.1 Rewards and items earned in Miruka are virtual items for use exclusively within the bot ecosystem and carry no real-world monetary value.
+   1.2 Any attempt to exploit reward mechanisms or manipulate balances is strictly prohibited and will result in account suspension or permanent ban.

@@ -25,5 +25,3 @@ New to the game? Follow these steps to kickstart your adventure:
 2. **Learn the Basics**:
    * Progress through levels to unlock new areas.
    * Use idle mechanics to earn rewards over time.
-3. **Check Your Wallet**:
-   * Use `/wallet` to view your currency.

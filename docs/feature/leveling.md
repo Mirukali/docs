@@ -68,13 +68,7 @@ y = **x² × 100** (where _x_ is the current level, y is the xp required).
   * Examples:
     * Badge: _"Level 10 Hero"_
     * Unique Equipment: Rare Shield
-    * Blockchain Tokens: 0.1 $MIRU at level 20
-
-### **5. Blockchain-Based Rewards**
-
-* **NFTs**: Exclusive non-fungible tokens representing skins or badges.
-  * Example: NFT Armor Skin at level 50.
-* **Tokens**: Earn small amounts of blockchain tokens ($MIRU) at specific milestones.
+    * Special Titles & Cosmetics at level 50.
 
 ### **6. Cosmetic and Social Rewards**
 
